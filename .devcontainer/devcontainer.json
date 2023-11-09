@@ -18,7 +18,10 @@
     "vscode": {
       "extensions": [
         "Shopify.ruby-lsp"
-      ]
+      ],
+      "settings": {
+        "rubyLsp.rubyVersionManager": "rvm"
+      }
     }
   },
   "portsAttributes": {
